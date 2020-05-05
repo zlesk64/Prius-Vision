@@ -5,6 +5,7 @@ import numpy as np
 import cv2
 import imutils
 import time
+import pyrealsense
 
 # identify video device to use
 cap = cv2.VideoCapture(4)
