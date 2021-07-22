@@ -3,7 +3,7 @@
 A Project using computer vision to control the steering on a car. 
 
 Hardware used:
-Intel UP Board,
+NVIDIA Jetson TK1 (UP-Board died),
 Arduino UNO,
 IBT-2 Motor driver,
 Andymark CIM Motor,
